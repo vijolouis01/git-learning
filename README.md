@@ -5,3 +5,4 @@ Feature B
 This change was made on GitHub.
 Feature test
 After v1.0.0
+Local change
